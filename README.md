@@ -44,5 +44,4 @@ Projeto pessoal criado para praticar fundamentos do front-end e manipulação do
 
 ## 📎 Links
 
-- 🔗 GitHub: 
-- 🔗 Projeto online: 
+- 🔗 GitHub: https://github.com/avilaleo/sneaker-shop
